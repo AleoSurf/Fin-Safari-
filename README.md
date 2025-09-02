@@ -2,7 +2,7 @@
 
 
   
-# 🎯 智能股票信号追踪系统 | AI-Powered Stock Signal Tracker
+# 🎯 AI-Powered Stock Signal Tracker |  智能股票信号追踪系统
 
 ### 🌟 **FinSafari** - 让AI成为您的投资向导！
 
