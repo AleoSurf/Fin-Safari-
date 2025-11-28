@@ -6,7 +6,7 @@
 
 ### 🌟 **FinSafari** - Let AI be your investment guide!
 
-[ 中文版](#-中文版) | [ English](#-english-version)
+[ 中文版](#中文版) | [ English](#english-version)
 
 </div>
 
